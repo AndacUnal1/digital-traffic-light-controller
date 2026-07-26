@@ -1,0 +1,24 @@
+# Vivado generated files
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.xpr
+.Xil/
+
+# Simulation and logs
+*.jou
+*.log
+*.pb
+*.wdb
+*.dcp
+*.str
+*.tmp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
