@@ -42,7 +42,13 @@ src/
   traffic_light_controller.v
 sim/
   tb_traffic_light.v
+docs/
+  project-report.pdf
 ```
+
+## Documentation
+
+- [Project report](docs/project-report.pdf)
 
 ## Run a Vivado simulation
 
@@ -61,4 +67,3 @@ sim/
 ## Author
 
 Andaç Ünal
-
